@@ -1,0 +1,1822 @@
+{
+	"code": 200,
+	"data": {
+		"access_arr": {
+			"team_num": {
+				"all": 662,
+				"male": 543,
+				"female": 119
+			},
+			"person_num": {
+				"all": 13963,
+				"male": 10032,
+				"female": 3923,
+				"birthday": [
+					{
+						"year": "U10",
+						"num": 1220
+					},
+					{
+						"year": "U11",
+						"num": 771
+					},
+					{
+						"year": "U12",
+						"num": 860
+					},
+					{
+						"year": "U13",
+						"num": 1626
+					},
+					{
+						"year": "U14",
+						"num": 1276
+					},
+					{
+						"year": "U15",
+						"num": 4672
+					},
+					{
+						"year": "U16",
+						"num": 1028
+					},
+					{
+						"year": "U17",
+						"num": 817
+					},
+					{
+						"year": "U18",
+						"num": 444
+					},
+					{
+						"year": "成人",
+						"num": 1249
+					}
+				]
+			}
+		},
+		"children_info": [
+			{
+				"org_id": 3257,
+				"code": "410100",
+				"city_name": "韶关市",
+				"person_time": 3284,
+				"duration": 7566780,
+				"hr_affect_seconds": 6335824,
+				"total_distance": 4863746.957,
+				"heart_rate_intensity_avg": 74.45692280916,
+				"bpm": 62.874230408349
+			},
+			{
+				"org_id": 3258,
+				"code": "410100",
+				"city_name": "梅州市",
+				"person_time": 48,
+				"duration": 131176,
+				"hr_affect_seconds": 127941,
+				"total_distance": 158912.3,
+				"heart_rate_intensity_avg": 85.229791666667,
+				"bpm": 140.89622916667
+			},
+			{
+				"org_id": 3259,
+				"code": "410100",
+				"city_name": "清远市",
+				"person_time": 16,
+				"duration": 49186,
+				"hr_affect_seconds": 47670,
+				"total_distance": 63170,
+				"heart_rate_intensity_avg": 83.56125,
+				"bpm": 144.0425
+			},
+			{
+				"org_id": 3260,
+				"code": "410100",
+				"city_name": "河源市",
+				"person_time": 10,
+				"duration": 27490,
+				"hr_affect_seconds": 28760,
+				"total_distance": 32918,
+				"heart_rate_intensity_avg": 82.80979,
+				"bpm": 129.555
+			},
+			{
+				"org_id": 3261,
+				"code": "410100",
+				"city_name": "潮州市",
+				"person_time": 19,
+				"duration": 44112,
+				"hr_affect_seconds": 39572,
+				"total_distance": 45013.9,
+				"heart_rate_intensity_avg": 83.153742105263,
+				"bpm": 97.747894736842
+			},
+			{
+				"org_id": 3279,
+				"code": "410100",
+				"city_name": "揭阳市",
+				"person_time": 867,
+				"duration": 4198156,
+				"hr_affect_seconds": 3124883,
+				"total_distance": 2445398.407,
+				"heart_rate_intensity_avg": 66.986996523754,
+				"bpm": 96.032520502451
+			},
+			{
+				"org_id": 3280,
+				"code": "410100",
+				"city_name": "肇庆市",
+				"person_time": 26,
+				"duration": 72843,
+				"hr_affect_seconds": 67113,
+				"total_distance": 77475,
+				"heart_rate_intensity_avg": 83.5976,
+				"bpm": 129.3176
+			},
+			{
+				"org_id": 3281,
+				"code": "410100",
+				"city_name": "广州市",
+				"person_time": 1429,
+				"duration": 2814002,
+				"hr_affect_seconds": 1162445,
+				"total_distance": 1569485.66967,
+				"heart_rate_intensity_avg": 54.149446210449,
+				"bpm": 77.595964405255
+			},
+			{
+				"org_id": 3282,
+				"code": "410100",
+				"city_name": "惠州市",
+				"person_time": 8,
+				"duration": 17292,
+				"hr_affect_seconds": 14260,
+				"total_distance": 15935,
+				"heart_rate_intensity_avg": 85.32125,
+				"bpm": 95.16375
+			},
+			{
+				"org_id": 3301,
+				"code": "410100",
+				"city_name": "佛山市",
+				"person_time": 1,
+				"duration": 4902,
+				"hr_affect_seconds": 4926,
+				"total_distance": 5774,
+				"heart_rate_intensity_avg": 71.29,
+				"bpm": 108.38
+			},
+			{
+				"org_id": 3374,
+				"code": "410100",
+				"city_name": "云浮市",
+				"person_time": 0,
+				"duration": 0,
+				"hr_affect_seconds": 0,
+				"total_distance": 0,
+				"heart_rate_intensity_avg": 0,
+				"bpm": 0
+			},
+			{
+				"org_id": 3438,
+				"code": "410100",
+				"city_name": "东莞市",
+				"person_time": 160,
+				"duration": 454861,
+				"hr_affect_seconds": 435542,
+				"total_distance": 537302.5,
+				"heart_rate_intensity_avg": 83.981150314465,
+				"bpm": 134.15735220126
+			},
+			{
+				"org_id": 3527,
+				"code": "410100",
+				"city_name": "汕尾市",
+				"person_time": 0,
+				"duration": 0,
+				"hr_affect_seconds": 0,
+				"total_distance": 0,
+				"heart_rate_intensity_avg": 0,
+				"bpm": 0
+			},
+			{
+				"org_id": 3545,
+				"code": "410100",
+				"city_name": "汕头市",
+				"person_time": 27,
+				"duration": 62068,
+				"hr_affect_seconds": 59125,
+				"total_distance": 82949.4,
+				"heart_rate_intensity_avg": 80.067218518519,
+				"bpm": 102.30851851852
+			},
+			{
+				"org_id": 3545,
+				"code": "410100",
+				"city_name": "深圳市",
+				"person_time": 27,
+				"duration": 62068,
+				"hr_affect_seconds": 59125,
+				"total_distance": 82949.4,
+				"heart_rate_intensity_avg": 80.067218518519,
+				"bpm": 102.30851851852
+			},
+			{
+				"org_id": 3545,
+				"code": "410100",
+				"city_name": "江门市",
+				"person_time": 27,
+				"duration": 62068,
+				"hr_affect_seconds": 59125,
+				"total_distance": 82949.4,
+				"heart_rate_intensity_avg": 80.067218518519,
+				"bpm": 102.30851851852
+			},
+			{
+				"org_id": 3545,
+				"code": "410100",
+				"city_name": "阳江市",
+				"person_time": 27,
+				"duration": 62068,
+				"hr_affect_seconds": 59125,
+				"total_distance": 82949.4,
+				"heart_rate_intensity_avg": 80.067218518519,
+				"bpm": 102.30851851852
+			},
+			{
+				"org_id": 3545,
+				"code": "410100",
+				"city_name": "珠海市",
+				"person_time": 27,
+				"duration": 62068,
+				"hr_affect_seconds": 59125,
+				"total_distance": 82949.4,
+				"heart_rate_intensity_avg": 80.067218518519,
+				"bpm": 102.30851851852
+			},
+			{
+				"org_id": 3545,
+				"code": "410100",
+				"city_name": "茂名市",
+				"person_time": 27,
+				"duration": 62068,
+				"hr_affect_seconds": 59125,
+				"total_distance": 82949.4,
+				"heart_rate_intensity_avg": 80.067218518519,
+				"bpm": 102.30851851852
+			},
+			{
+				"org_id": 3545,
+				"code": "410100",
+				"city_name": "湛江市",
+				"person_time": 27,
+				"duration": 62068,
+				"hr_affect_seconds": 59125,
+				"total_distance": 82949.4,
+				"heart_rate_intensity_avg": 80.067218518519,
+				"bpm": 102.30851851852
+			},
+			{
+				"org_id": 3700,
+				"code": "410100",
+				"city_name": "中山市",
+				"person_time": 1429,
+				"duration": 2814002,
+				"hr_affect_seconds": 1162445,
+				"total_distance": 1569485.66967,
+				"heart_rate_intensity_avg": 54.149446210449,
+				"bpm": 77.595964405255
+			}
+		],
+		"last_day_info": {
+			"sport_time": {
+				"match": 58,
+				"train": 3,
+				"all": 61
+			},
+			"sport_person_time": {
+				"male": 295,
+				"female": 132,
+				"all": 427
+			},
+			"sport_seconds": {
+				"match": 1121532,
+				"train": 54787,
+				"all": 1176319
+			}
+		},
+		"last_month_info": {
+			"sport_time": {
+				"match": 7,
+				"train": 16,
+				"all": 23
+			},
+			"sport_person_time": {
+				"male": 7,
+				"female": 346,
+				"all": 353
+			},
+			"sport_seconds": {
+				"match": 231407,
+				"train": 1475988,
+				"all": 1707395
+			}
+		},
+		"team_concern": [
+			{
+				"persons": {
+					"totaldistance_5min_max": [
+						{
+							"person_id": 95642,
+							"name": "季艺文艺文",
+							"avatar": "",
+							"value": 924
+						},
+						{
+							"person_id": 95636,
+							"name": "刘涵硕",
+							"avatar": "",
+							"value": 844
+						},
+						{
+							"person_id": 95639,
+							"name": "靳其为",
+							"avatar": "",
+							"value": 802
+						},
+						{
+							"person_id": 95635,
+							"name": "张治武",
+							"avatar": "",
+							"value": 741
+						},
+						{
+							"person_id": 114079,
+							"name": "贺浩然",
+							"avatar": "",
+							"value": 716
+						},
+						{
+							"person_id": 111512,
+							"name": "李晨赫",
+							"avatar": "",
+							"value": 674
+						},
+						{
+							"person_id": 114080,
+							"name": "吴昱棋",
+							"avatar": "",
+							"value": 575
+						},
+						{
+							"person_id": 95633,
+							"name": "李栋",
+							"avatar": "",
+							"value": 570
+						},
+						{
+							"person_id": 114081,
+							"name": "李天乙",
+							"avatar": "",
+							"value": 567
+						},
+						{
+							"person_id": 95640,
+							"name": "陈震霄",
+							"avatar": "",
+							"value": 564
+						}
+					],
+					"distance_max1_max": [
+						{
+							"person_id": 95637,
+							"name": "乔庆林",
+							"avatar": "",
+							"value": 189
+						},
+						{
+							"person_id": 117196,
+							"name": "方博",
+							"avatar": "",
+							"value": 188
+						},
+						{
+							"person_id": 95634,
+							"name": "梁家乐",
+							"avatar": "",
+							"value": 181
+						},
+						{
+							"person_id": 95633,
+							"name": "李栋",
+							"avatar": "",
+							"value": 178
+						},
+						{
+							"person_id": 95640,
+							"name": "陈震霄",
+							"avatar": "",
+							"value": 175
+						},
+						{
+							"person_id": 95635,
+							"name": "张治武",
+							"avatar": "",
+							"value": 171
+						},
+						{
+							"person_id": 95642,
+							"name": "季艺文",
+							"avatar": "",
+							"value": 171
+						},
+						{
+							"person_id": 114081,
+							"name": "李天乙",
+							"avatar": "",
+							"value": 168
+						},
+						{
+							"person_id": 111512,
+							"name": "李晨赫",
+							"avatar": "",
+							"value": 167
+						},
+						{
+							"person_id": 95643,
+							"name": "史子恒",
+							"avatar": "",
+							"value": 161
+						}
+					],
+					"speed_max_max": [
+						{
+							"person_id": 111512,
+							"name": "李晨赫",
+							"avatar": "",
+							"value": 7.7
+						},
+						{
+							"person_id": 95633,
+							"name": "李栋",
+							"avatar": "",
+							"value": 7.24
+						},
+						{
+							"person_id": 95637,
+							"name": "乔庆林",
+							"avatar": "",
+							"value": 6.91
+						},
+						{
+							"person_id": 114079,
+							"name": "贺浩然",
+							"avatar": "",
+							"value": 6.8
+						},
+						{
+							"person_id": 117196,
+							"name": "方博",
+							"avatar": "",
+							"value": 6.8
+						},
+						{
+							"person_id": 95642,
+							"name": "季艺文",
+							"avatar": "",
+							"value": 6.7
+						},
+						{
+							"person_id": 114078,
+							"name": "张展硕",
+							"avatar": "",
+							"value": 6.55
+						},
+						{
+							"person_id": 95643,
+							"name": "史子恒",
+							"avatar": "",
+							"value": 6.3
+						},
+						{
+							"person_id": 95634,
+							"name": "梁家乐",
+							"avatar": "",
+							"value": 6.23
+						},
+						{
+							"person_id": 95640,
+							"name": "陈震霄",
+							"avatar": "",
+							"value": 6.07
+						}
+					]
+				},
+				"teams": {
+					"maxPmetMax": 40,
+					"trimp": 192.11136295455,
+					"totalDistance5Min": 465.97905250104,
+					"speedMaxMax": 7.24,
+					"distanceMax1Max": 189
+				},
+				"time_list": [
+					{
+						"date": "2019-10-28",
+						"value": 5.875
+					},
+					{
+						"date": "2019-10-25",
+						"value": 123.375
+					},
+					{
+						"date": "2019-10-24",
+						"value": 69.125
+					}
+				],
+				"id": "10808",
+				"name": "84",
+				"team_sex": 2,
+				"team_classify": 7
+			},
+			{
+				"persons": {
+					"totaldistance_5min_max": [
+						{
+							"person_id": 95642,
+							"name": "季艺文",
+							"avatar": "",
+							"value": 924
+						},
+						{
+							"person_id": 95636,
+							"name": "刘涵硕",
+							"avatar": "",
+							"value": 844
+						},
+						{
+							"person_id": 95639,
+							"name": "靳其为",
+							"avatar": "",
+							"value": 802
+						},
+						{
+							"person_id": 95635,
+							"name": "张治武",
+							"avatar": "",
+							"value": 741
+						},
+						{
+							"person_id": 114079,
+							"name": "贺浩然",
+							"avatar": "",
+							"value": 716
+						},
+						{
+							"person_id": 111512,
+							"name": "李晨赫",
+							"avatar": "",
+							"value": 674
+						},
+						{
+							"person_id": 114080,
+							"name": "吴昱棋",
+							"avatar": "",
+							"value": 575
+						},
+						{
+							"person_id": 95633,
+							"name": "李栋",
+							"avatar": "",
+							"value": 570
+						},
+						{
+							"person_id": 114081,
+							"name": "李天乙",
+							"avatar": "",
+							"value": 567
+						},
+						{
+							"person_id": 95640,
+							"name": "陈震霄",
+							"avatar": "",
+							"value": 564
+						}
+					],
+					"distance_max1_max": [
+						{
+							"person_id": 95637,
+							"name": "乔庆林",
+							"avatar": "",
+							"value": 189
+						},
+						{
+							"person_id": 117196,
+							"name": "方博",
+							"avatar": "",
+							"value": 188
+						},
+						{
+							"person_id": 95634,
+							"name": "梁家乐",
+							"avatar": "",
+							"value": 181
+						},
+						{
+							"person_id": 95633,
+							"name": "李栋",
+							"avatar": "",
+							"value": 178
+						},
+						{
+							"person_id": 95640,
+							"name": "陈震霄",
+							"avatar": "",
+							"value": 175
+						},
+						{
+							"person_id": 95635,
+							"name": "张治武",
+							"avatar": "",
+							"value": 171
+						},
+						{
+							"person_id": 95642,
+							"name": "季艺文",
+							"avatar": "",
+							"value": 171
+						},
+						{
+							"person_id": 114081,
+							"name": "李天乙",
+							"avatar": "",
+							"value": 168
+						},
+						{
+							"person_id": 111512,
+							"name": "李晨赫",
+							"avatar": "",
+							"value": 167
+						},
+						{
+							"person_id": 95643,
+							"name": "史子恒",
+							"avatar": "",
+							"value": 161
+						}
+					],
+					"speed_max_max": [
+						{
+							"person_id": 111512,
+							"name": "李晨赫",
+							"avatar": "",
+							"value": 7.7
+						},
+						{
+							"person_id": 95633,
+							"name": "李栋",
+							"avatar": "",
+							"value": 7.24
+						},
+						{
+							"person_id": 95637,
+							"name": "乔庆林",
+							"avatar": "",
+							"value": 6.91
+						},
+						{
+							"person_id": 114079,
+							"name": "贺浩然",
+							"avatar": "",
+							"value": 6.8
+						},
+						{
+							"person_id": 117196,
+							"name": "方博",
+							"avatar": "",
+							"value": 6.8
+						},
+						{
+							"person_id": 95642,
+							"name": "季艺文",
+							"avatar": "",
+							"value": 6.7
+						},
+						{
+							"person_id": 114078,
+							"name": "张展硕",
+							"avatar": "",
+							"value": 6.55
+						},
+						{
+							"person_id": 95643,
+							"name": "史子恒",
+							"avatar": "",
+							"value": 6.3
+						},
+						{
+							"person_id": 95634,
+							"name": "梁家乐",
+							"avatar": "",
+							"value": 6.23
+						},
+						{
+							"person_id": 95640,
+							"name": "陈震霄",
+							"avatar": "",
+							"value": 6.07
+						}
+					]
+				},
+				"teams": {
+					"maxPmetMax": 40,
+					"trimp": 192.11136295455,
+					"totalDistance5Min": 465.97905250104,
+					"speedMaxMax": 7.24,
+					"distanceMax1Max": 189
+				},
+				"time_list": [
+					{
+						"date": "2019-10-28",
+						"value": 5.875
+					},
+					{
+						"date": "2019-10-25",
+						"value": 123.375
+					},
+					{
+						"date": "2019-10-24",
+						"value": 69.125
+					}
+				],
+				"id": "10808",
+				"name": "85",
+				"team_sex": 1,
+				"team_classify": 7
+			},
+			{
+				"persons": {
+					"totaldistance_5min_max": [
+						{
+							"person_id": 95642,
+							"name": "季艺文",
+							"avatar": "",
+							"value": 924
+						},
+						{
+							"person_id": 95636,
+							"name": "刘涵硕",
+							"avatar": "",
+							"value": 844
+						},
+						{
+							"person_id": 95639,
+							"name": "靳其为",
+							"avatar": "",
+							"value": 802
+						},
+						{
+							"person_id": 95635,
+							"name": "张治武",
+							"avatar": "",
+							"value": 741
+						},
+						{
+							"person_id": 114079,
+							"name": "贺浩然",
+							"avatar": "",
+							"value": 716
+						},
+						{
+							"person_id": 111512,
+							"name": "李晨赫",
+							"avatar": "",
+							"value": 674
+						},
+						{
+							"person_id": 114080,
+							"name": "吴昱棋",
+							"avatar": "",
+							"value": 575
+						},
+						{
+							"person_id": 95633,
+							"name": "李栋",
+							"avatar": "",
+							"value": 570
+						},
+						{
+							"person_id": 114081,
+							"name": "李天乙",
+							"avatar": "",
+							"value": 567
+						},
+						{
+							"person_id": 95640,
+							"name": "陈震霄",
+							"avatar": "",
+							"value": 564
+						}
+					],
+					"distance_max1_max": [
+						{
+							"person_id": 95637,
+							"name": "乔庆林",
+							"avatar": "",
+							"value": 189
+						},
+						{
+							"person_id": 117196,
+							"name": "方博",
+							"avatar": "",
+							"value": 188
+						},
+						{
+							"person_id": 95634,
+							"name": "梁家乐",
+							"avatar": "",
+							"value": 181
+						},
+						{
+							"person_id": 95633,
+							"name": "李栋",
+							"avatar": "",
+							"value": 178
+						},
+						{
+							"person_id": 95640,
+							"name": "陈震霄",
+							"avatar": "",
+							"value": 175
+						},
+						{
+							"person_id": 95635,
+							"name": "张治武",
+							"avatar": "",
+							"value": 171
+						},
+						{
+							"person_id": 95642,
+							"name": "季艺文",
+							"avatar": "",
+							"value": 171
+						},
+						{
+							"person_id": 114081,
+							"name": "李天乙",
+							"avatar": "",
+							"value": 168
+						},
+						{
+							"person_id": 111512,
+							"name": "李晨赫",
+							"avatar": "",
+							"value": 167
+						},
+						{
+							"person_id": 95643,
+							"name": "史子恒",
+							"avatar": "",
+							"value": 161
+						}
+					],
+					"speed_max_max": [
+						{
+							"person_id": 111512,
+							"name": "李晨赫",
+							"avatar": "",
+							"value": 7.7
+						},
+						{
+							"person_id": 95633,
+							"name": "李栋",
+							"avatar": "",
+							"value": 7.24
+						},
+						{
+							"person_id": 95637,
+							"name": "乔庆林",
+							"avatar": "",
+							"value": 6.91
+						},
+						{
+							"person_id": 114079,
+							"name": "贺浩然",
+							"avatar": "",
+							"value": 6.8
+						},
+						{
+							"person_id": 117196,
+							"name": "方博",
+							"avatar": "",
+							"value": 6.8
+						},
+						{
+							"person_id": 95642,
+							"name": "季艺文",
+							"avatar": "",
+							"value": 6.7
+						},
+						{
+							"person_id": 114078,
+							"name": "张展硕",
+							"avatar": "",
+							"value": 6.55
+						},
+						{
+							"person_id": 95643,
+							"name": "史子恒",
+							"avatar": "",
+							"value": 6.3
+						},
+						{
+							"person_id": 95634,
+							"name": "梁家乐",
+							"avatar": "",
+							"value": 6.23
+						},
+						{
+							"person_id": 95640,
+							"name": "陈震霄",
+							"avatar": "",
+							"value": 6.07
+						}
+					]
+				},
+				"teams": {
+					"maxPmetMax": 40,
+					"trimp": 192.11136295455,
+					"totalDistance5Min": 465.97905250104,
+					"speedMaxMax": 7.24,
+					"distanceMax1Max": 189
+				},
+				"time_list": [
+					{
+						"date": "2019-10-28",
+						"value": 5.875
+					},
+					{
+						"date": "2019-10-25",
+						"value": 123.375
+					},
+					{
+						"date": "2019-10-24",
+						"value": 69.125
+					}
+				],
+				"id": "10808",
+				"name": "86",
+				"team_sex": 2,
+				"team_classify": 7
+			},
+			{
+				"persons": {
+					"totaldistance_5min_max": [
+						{
+							"person_id": 95642,
+							"name": "季艺文",
+							"avatar": "",
+							"value": 924
+						},
+						{
+							"person_id": 95636,
+							"name": "刘涵硕",
+							"avatar": "",
+							"value": 844
+						},
+						{
+							"person_id": 95639,
+							"name": "靳其为",
+							"avatar": "",
+							"value": 802
+						},
+						{
+							"person_id": 95635,
+							"name": "张治武",
+							"avatar": "",
+							"value": 741
+						},
+						{
+							"person_id": 114079,
+							"name": "贺浩然",
+							"avatar": "",
+							"value": 716
+						},
+						{
+							"person_id": 111512,
+							"name": "李晨赫",
+							"avatar": "",
+							"value": 674
+						},
+						{
+							"person_id": 114080,
+							"name": "吴昱棋",
+							"avatar": "",
+							"value": 575
+						},
+						{
+							"person_id": 95633,
+							"name": "李栋",
+							"avatar": "",
+							"value": 570
+						},
+						{
+							"person_id": 114081,
+							"name": "李天乙",
+							"avatar": "",
+							"value": 567
+						},
+						{
+							"person_id": 95640,
+							"name": "陈震霄",
+							"avatar": "",
+							"value": 564
+						}
+					],
+					"distance_max1_max": [
+						{
+							"person_id": 95637,
+							"name": "乔庆林",
+							"avatar": "",
+							"value": 189
+						},
+						{
+							"person_id": 117196,
+							"name": "方博",
+							"avatar": "",
+							"value": 188
+						},
+						{
+							"person_id": 95634,
+							"name": "梁家乐",
+							"avatar": "",
+							"value": 181
+						},
+						{
+							"person_id": 95633,
+							"name": "李栋",
+							"avatar": "",
+							"value": 178
+						},
+						{
+							"person_id": 95640,
+							"name": "陈震霄",
+							"avatar": "",
+							"value": 175
+						},
+						{
+							"person_id": 95635,
+							"name": "张治武",
+							"avatar": "",
+							"value": 171
+						},
+						{
+							"person_id": 95642,
+							"name": "季艺文",
+							"avatar": "",
+							"value": 171
+						},
+						{
+							"person_id": 114081,
+							"name": "李天乙",
+							"avatar": "",
+							"value": 168
+						},
+						{
+							"person_id": 111512,
+							"name": "李晨赫",
+							"avatar": "",
+							"value": 167
+						},
+						{
+							"person_id": 95643,
+							"name": "史子恒",
+							"avatar": "",
+							"value": 161
+						}
+					],
+					"speed_max_max": [
+						{
+							"person_id": 111512,
+							"name": "李晨赫",
+							"avatar": "",
+							"value": 7.7
+						},
+						{
+							"person_id": 95633,
+							"name": "李栋",
+							"avatar": "",
+							"value": 7.24
+						},
+						{
+							"person_id": 95637,
+							"name": "乔庆林",
+							"avatar": "",
+							"value": 6.91
+						},
+						{
+							"person_id": 114079,
+							"name": "贺浩然",
+							"avatar": "",
+							"value": 6.8
+						},
+						{
+							"person_id": 117196,
+							"name": "方博",
+							"avatar": "",
+							"value": 6.8
+						},
+						{
+							"person_id": 95642,
+							"name": "季艺文",
+							"avatar": "",
+							"value": 6.7
+						},
+						{
+							"person_id": 114078,
+							"name": "张展硕",
+							"avatar": "",
+							"value": 6.55
+						},
+						{
+							"person_id": 95643,
+							"name": "史子恒",
+							"avatar": "",
+							"value": 6.3
+						},
+						{
+							"person_id": 95634,
+							"name": "梁家乐",
+							"avatar": "",
+							"value": 6.23
+						},
+						{
+							"person_id": 95640,
+							"name": "陈震霄",
+							"avatar": "",
+							"value": 6.07
+						}
+					]
+				},
+				"teams": {
+					"maxPmetMax": 40,
+					"trimp": 192.11136295455,
+					"totalDistance5Min": 465.97905250104,
+					"speedMaxMax": 7.24,
+					"distanceMax1Max": 189
+				},
+				"time_list": [
+					{
+						"date": "2019-10-28",
+						"value": 5.875
+					},
+					{
+						"date": "2019-10-25",
+						"value": 123.375
+					},
+					{
+						"date": "2019-10-24",
+						"value": 69.125
+					}
+				],
+				"id": "10808",
+				"name": "87",
+				"team_sex": 1,
+				"team_classify": 7
+			},
+			{
+				"persons": {
+					"totaldistance_5min_max": [
+						{
+							"person_id": 95642,
+							"name": "季艺文",
+							"avatar": "",
+							"value": 924
+						},
+						{
+							"person_id": 95636,
+							"name": "刘涵硕",
+							"avatar": "",
+							"value": 844
+						},
+						{
+							"person_id": 95639,
+							"name": "靳其为",
+							"avatar": "",
+							"value": 802
+						},
+						{
+							"person_id": 95635,
+							"name": "张治武",
+							"avatar": "",
+							"value": 741
+						},
+						{
+							"person_id": 114079,
+							"name": "贺浩然",
+							"avatar": "",
+							"value": 716
+						},
+						{
+							"person_id": 111512,
+							"name": "李晨赫",
+							"avatar": "",
+							"value": 674
+						},
+						{
+							"person_id": 114080,
+							"name": "吴昱棋",
+							"avatar": "",
+							"value": 575
+						},
+						{
+							"person_id": 95633,
+							"name": "李栋",
+							"avatar": "",
+							"value": 570
+						},
+						{
+							"person_id": 114081,
+							"name": "李天乙",
+							"avatar": "",
+							"value": 567
+						},
+						{
+							"person_id": 95640,
+							"name": "陈震霄",
+							"avatar": "",
+							"value": 564
+						}
+					],
+					"distance_max1_max": [
+						{
+							"person_id": 95637,
+							"name": "乔庆林",
+							"avatar": "",
+							"value": 189
+						},
+						{
+							"person_id": 117196,
+							"name": "方博",
+							"avatar": "",
+							"value": 188
+						},
+						{
+							"person_id": 95634,
+							"name": "梁家乐",
+							"avatar": "",
+							"value": 181
+						},
+						{
+							"person_id": 95633,
+							"name": "李栋",
+							"avatar": "",
+							"value": 178
+						},
+						{
+							"person_id": 95640,
+							"name": "陈震霄",
+							"avatar": "",
+							"value": 175
+						},
+						{
+							"person_id": 95635,
+							"name": "张治武",
+							"avatar": "",
+							"value": 171
+						},
+						{
+							"person_id": 95642,
+							"name": "季艺文",
+							"avatar": "",
+							"value": 171
+						},
+						{
+							"person_id": 114081,
+							"name": "李天乙",
+							"avatar": "",
+							"value": 168
+						},
+						{
+							"person_id": 111512,
+							"name": "李晨赫",
+							"avatar": "",
+							"value": 167
+						},
+						{
+							"person_id": 95643,
+							"name": "史子恒",
+							"avatar": "",
+							"value": 161
+						}
+					],
+					"speed_max_max": [
+						{
+							"person_id": 111512,
+							"name": "李晨赫",
+							"avatar": "",
+							"value": 7.7
+						},
+						{
+							"person_id": 95633,
+							"name": "李栋",
+							"avatar": "",
+							"value": 7.24
+						},
+						{
+							"person_id": 95637,
+							"name": "乔庆林",
+							"avatar": "",
+							"value": 6.91
+						},
+						{
+							"person_id": 114079,
+							"name": "贺浩然",
+							"avatar": "",
+							"value": 6.8
+						},
+						{
+							"person_id": 117196,
+							"name": "方博",
+							"avatar": "",
+							"value": 6.8
+						},
+						{
+							"person_id": 95642,
+							"name": "季艺文",
+							"avatar": "",
+							"value": 6.7
+						},
+						{
+							"person_id": 114078,
+							"name": "张展硕",
+							"avatar": "",
+							"value": 6.55
+						},
+						{
+							"person_id": 95643,
+							"name": "史子恒",
+							"avatar": "",
+							"value": 6.3
+						},
+						{
+							"person_id": 95634,
+							"name": "梁家乐",
+							"avatar": "",
+							"value": 6.23
+						},
+						{
+							"person_id": 95640,
+							"name": "陈震霄",
+							"avatar": "",
+							"value": 6.07
+						}
+					]
+				},
+				"teams": {
+					"maxPmetMax": 40,
+					"trimp": 192.11136295455,
+					"totalDistance5Min": 465.97905250104,
+					"speedMaxMax": 7.24,
+					"distanceMax1Max": 189
+				},
+				"time_list": [
+					{
+						"date": "2019-10-28",
+						"value": 5.875
+					},
+					{
+						"date": "2019-10-25",
+						"value": 123.375
+					},
+					{
+						"date": "2019-10-24",
+						"value": 69.125
+					}
+				],
+				"id": "10808",
+				"name": "郑州市第八十五中学男子超级组",
+				"team_sex": 1,
+				"team_classify": 7
+			},
+			{
+				"persons": {
+					"totaldistance_5min_max": [
+						{
+							"person_id": 95642,
+							"name": "季艺文",
+							"avatar": "",
+							"value": 924
+						},
+						{
+							"person_id": 95636,
+							"name": "刘涵硕",
+							"avatar": "",
+							"value": 844
+						},
+						{
+							"person_id": 95639,
+							"name": "靳其为",
+							"avatar": "",
+							"value": 802
+						},
+						{
+							"person_id": 95635,
+							"name": "张治武",
+							"avatar": "",
+							"value": 741
+						},
+						{
+							"person_id": 114079,
+							"name": "贺浩然",
+							"avatar": "",
+							"value": 716
+						},
+						{
+							"person_id": 111512,
+							"name": "李晨赫",
+							"avatar": "",
+							"value": 674
+						},
+						{
+							"person_id": 114080,
+							"name": "吴昱棋",
+							"avatar": "",
+							"value": 575
+						},
+						{
+							"person_id": 95633,
+							"name": "李栋",
+							"avatar": "",
+							"value": 570
+						},
+						{
+							"person_id": 114081,
+							"name": "李天乙",
+							"avatar": "",
+							"value": 567
+						},
+						{
+							"person_id": 95640,
+							"name": "陈震霄",
+							"avatar": "",
+							"value": 564
+						}
+					],
+					"distance_max1_max": [
+						{
+							"person_id": 95637,
+							"name": "乔庆林",
+							"avatar": "",
+							"value": 189
+						},
+						{
+							"person_id": 117196,
+							"name": "方博",
+							"avatar": "",
+							"value": 188
+						},
+						{
+							"person_id": 95634,
+							"name": "梁家乐",
+							"avatar": "",
+							"value": 181
+						},
+						{
+							"person_id": 95633,
+							"name": "李栋",
+							"avatar": "",
+							"value": 178
+						},
+						{
+							"person_id": 95640,
+							"name": "陈震霄",
+							"avatar": "",
+							"value": 175
+						},
+						{
+							"person_id": 95635,
+							"name": "张治武",
+							"avatar": "",
+							"value": 171
+						},
+						{
+							"person_id": 95642,
+							"name": "季艺文",
+							"avatar": "",
+							"value": 171
+						},
+						{
+							"person_id": 114081,
+							"name": "李天乙",
+							"avatar": "",
+							"value": 168
+						},
+						{
+							"person_id": 111512,
+							"name": "李晨赫",
+							"avatar": "",
+							"value": 167
+						},
+						{
+							"person_id": 95643,
+							"name": "史子恒",
+							"avatar": "",
+							"value": 161
+						}
+					],
+					"speed_max_max": [
+						{
+							"person_id": 111512,
+							"name": "李晨赫",
+							"avatar": "",
+							"value": 7.7
+						},
+						{
+							"person_id": 95633,
+							"name": "李栋",
+							"avatar": "",
+							"value": 7.24
+						},
+						{
+							"person_id": 95637,
+							"name": "乔庆林",
+							"avatar": "",
+							"value": 6.91
+						},
+						{
+							"person_id": 114079,
+							"name": "贺浩然",
+							"avatar": "",
+							"value": 6.8
+						},
+						{
+							"person_id": 117196,
+							"name": "方博",
+							"avatar": "",
+							"value": 6.8
+						},
+						{
+							"person_id": 95642,
+							"name": "季艺文",
+							"avatar": "",
+							"value": 6.7
+						},
+						{
+							"person_id": 114078,
+							"name": "张展硕",
+							"avatar": "",
+							"value": 6.55
+						},
+						{
+							"person_id": 95643,
+							"name": "史子恒",
+							"avatar": "",
+							"value": 6.3
+						},
+						{
+							"person_id": 95634,
+							"name": "梁家乐",
+							"avatar": "",
+							"value": 6.23
+						},
+						{
+							"person_id": 95640,
+							"name": "陈震霄",
+							"avatar": "",
+							"value": 6.07
+						}
+					]
+				},
+				"teams": {
+					"maxPmetMax": 40,
+					"trimp": 192.11136295455,
+					"totalDistance5Min": 465.97905250104,
+					"speedMaxMax": 7.24,
+					"distanceMax1Max": 189
+				},
+				"time_list": [
+					{
+						"date": "2019-10-28",
+						"value": 5.875
+					},
+					{
+						"date": "2019-10-25",
+						"value": 123.375
+					},
+					{
+						"date": "2019-10-24",
+						"value": 69.125
+					}
+				],
+				"id": "10808",
+				"name": "100",
+				"team_sex": 1,
+				"team_classify": 7
+			}
+		],
+		"const_info": {
+			"nationalPersonNum": 2,
+			"registered": {
+				"male": 2,
+				"female": 3,
+				"birthday": [
+					{
+						"year": 2013,
+						"value": 2323
+					},
+					{
+						"year": 2014,
+						"value": 2324
+					},
+					{
+						"year": 2015,
+						"value": 2325
+					},
+					{
+						"year": 2016,
+						"value": 2326
+					},
+					{
+						"year": 2017,
+						"value": 2327
+					},
+					{
+						"year": 2018,
+						"value": 2328
+					},
+					{
+						"year": 2019,
+						"value": 2329
+					},
+					{
+						"year": 2020,
+						"value": 2330
+					},
+					{
+						"year": 2021,
+						"value": 2331
+					},
+					{
+						"year": 2022,
+						"value": 2332
+					}
+				]
+			},
+			"teams": {
+				"male": 2,
+				"female": 2,
+				"birthday": [
+					{
+						"year": 2013,
+						"value": 1
+					},
+					{
+						"year": 2014,
+						"value": 2
+					},
+					{
+						"year": 2015,
+						"value": 3
+					},
+					{
+						"year": 2016,
+						"value": 4
+					},
+					{
+						"year": 2017,
+						"value": 5
+					},
+					{
+						"year": 2018,
+						"value": 6
+					},
+					{
+						"year": 2019,
+						"value": 7
+					},
+					{
+						"year": 2020,
+						"value": 8
+					},
+					{
+						"year": 2021,
+						"value": 9
+					},
+					{
+						"year": 2022,
+						"value": 10
+					}
+				]
+			},
+			"cityList": [
+				{
+					"name": "韶关市",
+					"team_num": 60,
+					"person_num": 66
+				},
+				{
+					"name": "梅州市",
+					"team_num": 70,
+					"person_num": 74
+				},
+				{
+					"name": "清远市",
+					"team_num": 80,
+					"person_num": 83
+				},
+				{
+					"name": "河源市",
+					"team_num": 45,
+					"person_num": 48
+				},
+				{
+					"name": "潮州市",
+					"team_num": 66,
+					"person_num": 77
+				},
+				{
+					"name": "肇庆市",
+					"team_num": 88,
+					"person_num": 99
+				},
+				{
+					"name": "揭阳市",
+					"team_num": 100,
+					"person_num": 104
+				},
+				{
+					"name": "汕头市",
+					"team_num": 80,
+					"person_num": 79
+				},
+				{
+					"name": "广州市",
+					"team_num": 60,
+					"person_num": 67
+				},
+				{
+					"name": "惠州市",
+					"team_num": 60,
+					"person_num": 80
+				},
+				{
+					"name": "佛山市",
+					"team_num": 30,
+					"person_num": 70
+				},
+				{
+					"name": "云浮市",
+					"team_num": 50,
+					"person_num": 97
+				},
+				{
+					"name": "东莞市",
+					"team_num": 64,
+					"person_num": 70
+				},
+				{
+					"name": "汕尾市",
+					"team_num": 30,
+					"person_num": 37
+				},
+				{
+					"name": "中山市",
+					"team_num": 89,
+					"person_num": 70
+				},
+				{
+					"name": "深圳市",
+					"team_num": 54,
+					"person_num": 46
+				},
+				{
+					"name": "江门市",
+					"team_num": 67,
+					"person_num": 60
+				},
+				{
+					"name": "阳江市",
+					"team_num": 80,
+					"person_num": 73
+				},
+				{
+					"name": "珠海市",
+					"team_num": 30,
+					"person_num": 70
+				},
+				{
+					"name": "茂名市",
+					"team_num": 80,
+					"person_num": 90
+				},
+				{
+					"name": "湛江市",
+					"team_num": 75,
+					"person_num": 73
+				}
+			]
+		}
+	},
+	"dataList": [],
+	"msg": "请求成功"
+}

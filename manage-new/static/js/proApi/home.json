@@ -1,0 +1,927 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "name": "一线队",
+      "person_num": 28,
+      "health_num": 25,
+      "injured_num": 1,
+      "injury_num": 2,
+      "ill_num": 0,
+      "person_list": [
+        {
+          "name": "Steve McClaren",
+          "img": "/static/images/pro/manager.png",
+          "position": "运维者",
+          "tel": "tel:"
+        },
+        {
+          "name": "Chris Powell",
+          "img": "/static/images/pro/assistant.png",
+          "position": "主教练",
+          "tel": "tel:"
+        },
+        {
+          "name": "Kevin Phillips",
+          "img": "/static/images/pro/teamCoach.png",
+          "position": "助理教练",
+          "tel": "tel:"
+        },
+        {
+          "name": "Darren Wassall",
+          "img": "/static/images/pro/academydir.png",
+          "position": "领队",
+          "tel": "tel:"
+        },
+        {
+          "name": "Robin Sadler",
+          "img": "/static/images/pro/headphy.png",
+          "position": "队医",
+          "tel": "tel:"
+        }
+      ],
+      "player_list": [
+        {
+          "num": "1",
+          "name": "Scott Carson",
+          "position": "GK",
+          "img": "/static/images/pro/play1.png",
+          "health": "健康"
+        },
+        {
+          "num": "2",
+          "name": "Cyrus Christie",
+          "position": "DR",
+          "img": "/static/images/pro/play2.png",
+          "health": "轻伤"
+        },
+        {
+          "num": "3",
+          "name": "Craig Forsyth",
+          "position": "DR",
+          "img": "/static/images/pro/play3.png",
+          "health": "健康"
+        },
+        {
+          "num": "4",
+          "name": "Craig Bryson",
+          "position": "MR",
+          "img": "/static/images/pro/play4.png",
+          "health": "健康"
+        },
+        {
+          "num": "5",
+          "name": "Jason Shackell",
+          "position": "DR",
+          "img": "/static/images/pro/play5.png",
+          "health": "健康"
+        },
+        {
+          "num": "6",
+          "name": "Richard Keogh",
+          "position": "DR",
+          "img": "/static/images/pro/play6.png",
+          "health": "健康"
+        },
+        {
+          "num": "7",
+          "name": "Johnny Russell",
+          "position": "FC",
+          "img": "/static/images/pro/play7.png",
+          "health": "健康"
+        },
+        {
+          "num": "8",
+          "name": "Ikechi Anya",
+          "position": "MR",
+          "img": "/static/images/pro/play8.png",
+          "health": "健康"
+        },
+        {
+          "num": "10",
+          "name": "Tom Ince",
+          "position": "MR",
+          "img": "/static/images/pro/play10.png",
+          "health": "健康"
+        },
+        {
+          "num": "11",
+          "name": "Darren Bent",
+          "position": "FC",
+          "img": "/static/images/pro/play11.png",
+          "health": "健康"
+        },
+        {
+          "num": "12",
+          "name": "Chris Baird",
+          "position": "DR",
+          "img": "/static/images/pro/play12.png",
+          "health": "健康"
+        },
+        {
+          "num": "14",
+          "name": "James Wilson",
+          "position": "FC",
+          "img": "/static/images/pro/play14.png",
+          "health": "健康"
+        },
+        {
+          "num": "15",
+          "name": "Bradley Johnson",
+          "position": "MR",
+          "img": "/static/images/pro/play15.png",
+          "health": "健康"
+        },
+        {
+          "num": "16",
+          "name": "Alex Pearce",
+          "position": "DR",
+          "img": "/static/images/pro/play16.png",
+          "health": "健康"
+        },
+        {
+          "num": "17",
+          "name": "Julien Desart",
+          "position": "MR",
+          "img": "/static/images/pro/play17.png",
+          "health": "健康"
+        },
+        {
+          "num": "18",
+          "name": "Jacob Butterfield",
+          "position": "MR",
+          "img": "/static/images/pro/play18.png",
+          "health": "健康"
+        },
+        {
+          "num": "19",
+          "name": "Will Hughesn",
+          "position": "MR",
+          "img": "/static/images/pro/play19.png",
+          "health": "健康"
+        },
+        {
+          "num": "20",
+          "name": "Abdoul Camara",
+          "position": "FC",
+          "img": "/static/images/pro/play20.png",
+          "health": "健康"
+        },
+        {
+          "num": "21",
+          "name": "Kelle Roos",
+          "position": "GK",
+          "img": "http://www.dcfc.co.uk/cms_images/player/roos-kelle129-3225225_231x264.jpg",
+          "health": "健康"
+        },
+        {
+          "num": "22",
+          "name": "Nick Blackman",
+          "position": "FC",
+          "img": "/static/images/pro/play22.png",
+          "health": "轻伤"
+        },
+        {
+          "num": "23",
+          "name": "Matej Vydra",
+          "position": "FC",
+          "img": "/static/images/pro/play23.png",
+          "health": "重伤"
+        },
+        {
+          "num": "24",
+          "name": "Andreas Weimann",
+          "position": "FC",
+          "img": "/static/images/pro/play24.png",
+          "health": "健康"
+        },
+        {
+          "num": "25",
+          "name": "Max Lowe",
+          "position": "DR",
+          "img": "http://www.dcfc.co.uk/cms_images/player/lowe-max129-3225218_231x264.jpg",
+          "health": "健康"
+        },
+        {
+          "num": "26",
+          "name": "Jamie Hanson",
+          "position": "DR",
+          "img": "/static/images/pro/play26.png",
+          "health": "健康"
+        },
+        {
+          "num": "28",
+          "name": "David Nugent",
+          "position": "FC",
+          "img": "/static/images/pro/play28.png",
+          "health": "健康"
+        },
+        {
+          "num": "29",
+          "name": "Marcus Olsson",
+          "position": "DR",
+          "img": "/static/images/pro/play29.png",
+          "health": "健康"
+        },
+        {
+          "num": "30",
+          "name": "Timi Elsnik",
+          "position": "MR",
+          "img": "http://www.dcfc.co.uk/cms_images/player/elsnik-timi-max129-3244187_231x264.jpg",
+          "health": "健康"
+        },
+        {
+          "num": "34",
+          "name": "George Thorne",
+          "position": "MR",
+          "img": "/static/images/pro/play34.png",
+          "health": "健康"
+        }
+      ],
+      "trains": [
+        {
+          "id": "3176",
+          "type": "热身训练",
+          "date": "2016-12-27",
+          "person_num": 18,
+          "time": 73,
+          "intensity": "67%"
+        },
+        {
+          "type": "体能训练",
+          "date": "2016-11-12",
+          "person_num": 30,
+          "time": 60,
+          "intensity": "70%"
+        },
+        {
+          "type": "体能训练",
+          "date": "2016-11-02",
+          "person_num": 18,
+          "time": 30,
+          "intensity": "69%"
+        },
+        {
+          "type": "体能训练",
+          "date": "2016-10-14",
+          "person_num": 22,
+          "time": 45,
+          "intensity": "65%"
+        },
+        {
+          "type": "体能训练",
+          "date": "2016-10-06",
+          "person_num": 22,
+          "time": 45,
+          "intensity": "62%"
+        }
+      ],
+      "matchs": [
+        {
+          "id": 8752,
+          "formation_cnt": "11",
+          "red_name": "德比郡",
+          "red_score": 4,
+          "blue_name": "国青u17",
+          "blue_score": 1,
+          "date": "2016-12-27"
+        },
+        {
+          "formation_cnt": "11",
+          "red_name": "天津泰达",
+          "red_score": 0,
+          "blue_name": "德比郡",
+          "blue_score": 1,
+          "date": "2016-10-27"
+        },
+        {
+          "formation_cnt": "11",
+          "red_name": "德比郡",
+          "red_score": 4,
+          "blue_name": "山东鲁能",
+          "blue_score": 1,
+          "date": "2016-10-24"
+        },
+        {
+          "formation_cnt": "11",
+          "red_name": "江苏苏宁",
+          "red_score": 2,
+          "blue_name": "德比郡",
+          "blue_score": 1,
+          "date": "2016-10-17"
+        },
+        {
+          "formation_cnt": "11",
+          "red_name": "德比郡",
+          "red_score": 0,
+          "blue_name": "广州恒大",
+          "blue_score": 0,
+          "date": "2016-09-26"
+        }
+      ],
+      "specials": [
+        {
+          "type": "5米×8折返运球",
+          "person_num": 20,
+          "intensity": "80%",
+          "date": "2016-12-27"
+        },
+        {
+          "type": "20米冲刺跑",
+          "person_num": 25,
+          "intensity": "73%",
+          "date": "2016-12-21"
+        },
+        {
+          "type": "Yo-Yo跑",
+          "person_num": 30,
+          "intensity": "66%",
+          "date": "2016-12-19"
+        },
+        {
+          "type": "Illinois测试",
+          "person_num": 24,
+          "intensity": "67%",
+          "date": "2016-12-17"
+        },
+        {
+          "type": "T形跑射门",
+          "person_num": 30,
+          "intensity": "65%",
+          "date": "2016-12-14"
+        }
+      ]
+    },
+    {
+      "name": "预备队",
+      "person_num": 18,
+      "health_num": 17,
+      "injured_num": 0,
+      "injury_num": 1,
+      "ill_num": 0,
+      "person_list": [
+        {
+          "name": "Gary Brazil",
+          "img": "/static/images/pro/garyBrazil.png",
+          "position": "教练",
+          "tel": "tel:"
+        },
+        {
+          "name": "Philippe Montanier",
+          "img": "/static/images/pro/philippeMon.png",
+          "position": "教练",
+          "tel": "tel:"
+        },
+        {
+          "name": "Dan Thomas",
+          "img": "/static/images/pro/danThomas.png",
+          "position": "队务",
+          "tel": "tel:"
+        },
+        {
+          "name": "Steve Wigley",
+          "img": "/static/images/pro/steveWigley.png",
+          "position": "队医",
+          "tel": "tel:"
+        }
+      ],
+      "player_list": [
+        {
+          "num": "1",
+          "name": "Josh Barnes",
+          "position": "GK",
+          "img": "/static/images/pro/yubei1.png",
+          "health": "健康"
+        },
+        {
+          "num": "2",
+          "name": "Henrich Ravas",
+          "position": "GK",
+          "img": "/static/images/pro/yubei2.png",
+          "health": "轻伤"
+        },
+        {
+          "num": "3",
+          "name": "Alex Cover",
+          "position": "DR",
+          "img": "/static/images/pro/yubei3.png",
+          "health": "健康"
+        },
+        {
+          "num": "4",
+          "name": "Farrend Rawson",
+          "position": "MR",
+          "img": "/static/images/pro/yubei4.png",
+          "health": "健康"
+        },
+        {
+          "num": "5",
+          "name": "Calum Macdonald",
+          "position": "DR",
+          "img": "/static/images/pro/yubei5.png",
+          "health": "健康"
+        },
+        {
+          "num": "6",
+          "name": "Kyron Stabana",
+          "position": "DR",
+          "img": "/static/images/pro/yubei6.png",
+          "health": "健康"
+        },
+        {
+          "num": "7",
+          "name": "Ethan Wassall",
+          "position": "FC",
+          "img": "/static/images/pro/yubei7.png",
+          "health": "健康"
+        },
+        {
+          "num": "8",
+          "name": "Alefe Santos",
+          "position": "MR",
+          "img": "/static/images/pro/yubei8.png",
+          "health": "健康"
+        },
+        {
+          "num": "10",
+          "name": "Kellan Gordon",
+          "position": "MR",
+          "img": "/static/images/pro/yubei10.png",
+          "health": "健康"
+        },
+        {
+          "num": "11",
+          "name": "Callum Guy",
+          "position": "MR",
+          "img": "/static/images/pro/yubei11.png",
+          "health": "健康"
+        },
+        {
+          "num": "12",
+          "name": "Timi Elsnik",
+          "position": "FR",
+          "img": "/static/images/pro/yubei12.png",
+          "health": "健康"
+        },
+        {
+          "num": "14",
+          "name": "Alex Babos",
+          "position": "MR",
+          "img": "/static/images/pro/yubei14.png",
+          "health": "健康"
+        },
+        {
+          "num": "15",
+          "name": "Charles Vernam",
+          "position": "MR",
+          "img": "/static/images/pro/yubei15.png",
+          "health": "健康"
+        },
+        {
+          "num": "16",
+          "name": "Mason Bennett",
+          "position": "MR",
+          "img": "/static/images/pro/yubei16.png",
+          "health": "健康"
+        },
+        {
+          "num": "18",
+          "name": "Offrande Zanzala",
+          "position": "FC",
+          "img": "/static/images/pro/yubei18.png",
+          "health": "健康"
+        },{
+          "num": "19",
+          "name": "Lewis Walker",
+          "position": "MR",
+          "img": "/static/images/pro/yubei19.png",
+          "health": "健康"
+        },{
+          "num": "20",
+          "name": "Emil Jakobsen",
+          "position": "MR",
+          "img": "/static/images/pro/yubei20.png",
+          "health": "健康"
+        },{
+          "num": "22",
+          "name": "Tom Mellors",
+          "position": "FC",
+          "img": "/static/images/pro/yubei22.png",
+          "health": "健康"
+        }
+      ],
+      "trains": [
+        {
+          "type": "体能训练",
+          "date": "2016-11-22",
+          "person_num": 22,
+          "time": 45,
+          "intensity": "67%"
+        },
+        {
+          "type": "体能训练",
+          "date": "2016-11-12",
+          "person_num": 30,
+          "time": 60,
+          "intensity": "70%"
+        },
+        {
+          "type": "体能训练",
+          "date": "2016-11-02",
+          "person_num": 18,
+          "time": 30,
+          "intensity": "69%"
+        },
+        {
+          "type": "体能训练",
+          "date": "2016-10-14",
+          "person_num": 22,
+          "time": 45,
+          "intensity": "65%"
+        },
+        {
+          "type": "体能训练",
+          "date": "2016-10-06",
+          "person_num": 22,
+          "time": 45,
+          "intensity": "62%"
+        }
+      ],
+      "matchs": [
+        {
+          "formation_cnt": "11",
+          "red_name": "德比郡",
+          "red_score": 3,
+          "blue_name": "河北华夏幸福",
+          "blue_score": 1,
+          "date": "2016-10-31"
+        },
+        {
+          "formation_cnt": "11",
+          "red_name": "天津泰达",
+          "red_score": 0,
+          "blue_name": "德比郡",
+          "blue_score": 1,
+          "date": "2016-10-27"
+        },
+        {
+          "formation_cnt": "11",
+          "red_name": "德比郡",
+          "red_score": 4,
+          "blue_name": "山东鲁能",
+          "blue_score": 1,
+          "date": "2016-10-24"
+        },
+        {
+          "formation_cnt": "11",
+          "red_name": "江苏苏宁",
+          "red_score": 2,
+          "blue_name": "德比郡",
+          "blue_score": 1,
+          "date": "2016-10-17"
+        },
+        {
+          "formation_cnt": "11",
+          "red_name": "德比郡",
+          "red_score": 0,
+          "blue_name": "广州恒大",
+          "blue_score": 0,
+          "date": "2016-09-26"
+        }
+      ],
+      "specials": [
+        {
+          "type": "5米×8折返运球",
+          "person_num": 15,
+          "intensity": "69%",
+          "date": "2016-12-27"
+        },
+        {
+          "type": "20米冲刺跑",
+          "person_num": 15,
+          "intensity": "70%",
+          "date": "2016-12-21"
+        },
+        {
+          "type": "Yo-Yo跑",
+          "person_num": 15,
+          "intensity": "75%",
+          "date": "2016-12-19"
+        },
+        {
+          "type": "Illinois测试",
+          "person_num": 14,
+          "intensity": "70%",
+          "date": "2016-12-17"
+        },
+        {
+          "type": "T形跑射门",
+          "person_num": 15,
+          "intensity": "67%",
+          "date": "2016-12-14"
+        }
+      ]
+    },
+    {
+      "name": "U18",
+      "person_num": 22,
+      "health_num": 21,
+      "injured_num": 0,
+      "injury_num": 1,
+      "ill_num": 0,
+      "person_list": [
+        {
+          "name": "Dave Timmins",
+          "img": "/static/images/pro/daveTimmins.png",
+          "position": "主教练",
+          "tel": "tel:"
+        },
+        {
+          "name": "Richie Kyle",
+          "img": "/static/images/pro/richieKyle.png",
+          "position": "领队",
+          "tel": "tel:"
+        },
+        {
+          "name": "Gary Bowyer",
+          "img": "/static/images/pro/garyBowyer.png",
+          "position": "助理教练",
+          "tel": "tel:"
+        },
+        {
+          "name": "Steve Sutton",
+          "img": "/static/images/pro/gkCoach.png",
+          "position": "守门员教练",
+          "tel": "tel:"
+        }
+      ],
+      "player_list": [
+        {
+          "num": "1",
+          "name": "Matt Yates",
+          "position": "GK",
+          "img": "/static/images/pro/u1.png",
+          "health": "健康"
+        },
+        {
+          "num": "2",
+          "name": "Joseph Bateman",
+          "position": "DR",
+          "img": "/static/images/pro/u2.png",
+          "health": "轻伤"
+        },
+        {
+          "num": "4",
+          "name": "Harry Goode",
+          "position": "DR",
+          "img": "/static/images/pro/u4.png",
+          "health": "健康"
+        },
+        {
+          "num": "6",
+          "name": "Giann Magno",
+          "position": "MR",
+          "img": "/static/images/pro/u6.png",
+          "health": "健康"
+        },
+        {
+          "num": "8",
+          "name": "Micah Edwards",
+          "position": "FC",
+          "img": "/static/images/pro/u8.png",
+          "health": "健康"
+        },
+        {
+          "num": "9",
+          "name": "Jahvan Miller",
+          "position": "FC",
+          "img": "/static/images/pro/u9.png",
+          "health": "健康"
+        },
+        {
+          "num": "10",
+          "name": "Luke Thomas",
+          "position": "FC",
+          "img": "/static/images/pro/u10.png",
+          "health": "健康"
+        },
+        {
+          "num": "11",
+          "name": "Joe Fryatt",
+          "position": "GK",
+          "img": "/static/images/pro/u11.png",
+          "health": "健康"
+        },
+        {
+          "num": "12",
+          "name": "Russell Thompson",
+          "position": "DR",
+          "img": "/static/images/pro/u12.png",
+          "health": "健康"
+        },
+        {
+          "num": "14",
+          "name": "Cain Thomas",
+          "position": "DR",
+          "img": "/static/images/pro/u14.png",
+          "health": "健康"
+        },
+        {
+          "num": "15",
+          "name": "Michee Mbuti",
+          "position": "DR",
+          "img": "/static/images/pro/u15.png",
+          "health": "健康"
+        },
+        {
+          "num": "16",
+          "name": "Fuseine Rashid",
+          "position": "DR",
+          "img": "/static/images/pro/u16.png",
+          "health": "健康"
+        },
+        {
+          "num": "18",
+          "name": "Jordan Mills",
+          "position": "DR",
+          "img": "/static/images/pro/u18.png",
+          "health": "健康"
+        },
+        {
+          "num": "20",
+          "name": "Jayden Bogle",
+          "position": "DC",
+          "img": "/static/images/pro/u20.png",
+          "health": "健康"
+        },
+        {
+          "num": "22",
+          "name": "Jaydan Thorne",
+          "position": "DM",
+          "img": "/static/images/pro/u22.png",
+          "health": "健康"
+        },
+        {
+          "num": "23",
+          "name": "Jack Haywood",
+          "position": "MR",
+          "img": "/static/images/pro/u23.png",
+          "health": "健康"
+        },
+        {
+          "num": "24",
+          "name": "Brandon Hitchman",
+          "position": "MR",
+          "img": "/static/images/pro/u24.png",
+          "health": "健康"
+        },
+        {
+          "num": "25",
+          "name": "Henry Wise",
+          "position": "MR",
+          "img": "/static/images/pro/u25.png",
+          "health": "健康"
+        },
+        {
+          "num": "26",
+          "name": "Ayomide Jibodu",
+          "position": "WR",
+          "img": "/static/images/pro/u26.png",
+          "health": "健康"
+        },
+        {
+          "num": "28",
+          "name": "Jayden Mitchell-Lawson",
+          "position": "DM",
+          "img": "/static/images/pro/u28.png",
+          "health": "健康"
+        },
+        {
+          "num": "30",
+          "name": "Cameron Cresswell",
+          "position": "FR",
+          "img": "/static/images/pro/u30.png",
+          "health": "健康"
+        },
+        {
+          "num": "32",
+          "name": "Adam Davie",
+          "position": "DM",
+          "img": "/static/images/pro/u32.png",
+          "health": "健康"
+        }
+      ],
+      "trains": [
+        {
+          "type": "体能训练",
+          "date": "2016-11-22",
+          "person_num": 12,
+          "time": 45,
+          "intensity": "67%"
+        },
+        {
+          "type": "体能训练",
+          "date": "2016-11-12",
+          "person_num": 10,
+          "time": 60,
+          "intensity": "60%"
+        },
+        {
+          "type": "体能训练",
+          "date": "2016-11-02",
+          "person_num": 11,
+          "time": 30,
+          "intensity": "69%"
+        },
+        {
+          "type": "体能训练",
+          "date": "2016-10-14",
+          "person_num": 12,
+          "time": 45,
+          "intensity": "65%"
+        },
+        {
+          "type": "体能训练",
+          "date": "2016-10-06",
+          "person_num": 12,
+          "time": 45,
+          "intensity": "62%"
+        }
+      ],
+      "matchs": [
+        {
+          "formation_cnt": "11",
+          "red_name": "德比郡",
+          "red_score": 3,
+          "blue_name": "河北华夏幸福",
+          "blue_score": 1,
+          "date": "2016-10-31"
+        },
+        {
+          "formation_cnt": "11",
+          "red_name": "天津泰达",
+          "red_score": 0,
+          "blue_name": "德比郡",
+          "blue_score": 1,
+          "date": "2016-10-27"
+        },
+        {
+          "formation_cnt": "11",
+          "red_name": "德比郡",
+          "red_score": 4,
+          "blue_name": "山东鲁能",
+          "blue_score": 1,
+          "date": "2016-10-24"
+        },
+        {
+          "formation_cnt": "11",
+          "red_name": "江苏苏宁",
+          "red_score": 2,
+          "blue_name": "德比郡",
+          "blue_score": 1,
+          "date": "2016-10-17"
+        },
+        {
+          "formation_cnt": "11",
+          "red_name": "德比郡",
+          "red_score": 0,
+          "blue_name": "广州恒大",
+          "blue_score": 0,
+          "date": "2016-09-26"
+        }
+      ],
+      "specials": [
+        {
+          "type": "5米×8折返运球",
+          "person_num": 13,
+          "intensity": "57%",
+          "date": "2016-12-27"
+        },
+        {
+          "type": "20米冲刺跑",
+          "person_num": 13,
+          "intensity": "76%",
+          "date": "2016-12-21"
+        },
+        {
+          "type": "Yo-Yo跑",
+          "person_num": 13,
+          "intensity": "67%",
+          "date": "2016-12-19"
+        },
+        {
+          "type": "Illinois测试",
+          "person_num": 13,
+          "intensity": "75%",
+          "date": "2016-12-17"
+        },
+        {
+          "type": "T形跑射门",
+          "person_num": 13,
+          "intensity": "70%",
+          "date": "2016-12-14"
+        }
+      ]
+    }
+  ]
+}

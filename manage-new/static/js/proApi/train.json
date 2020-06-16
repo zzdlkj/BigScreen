@@ -1,0 +1,25 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "id": "3176", "year": 2016, "date": "12-27", "team_name": "一线队", "duration": "73", "person_num": 18, "type": "热身训练",
+      "total_distance": "8.2", "single": "65%", "high_percentage": "7.1", "position": "上海市东方绿舟体育训练基地",
+      "temperature": "12℃", "wind_power": "3-4级", "humidity": "40%", "haiba": "50"
+    },
+    {
+      "id": "3176", "year": 2016, "date": "12-23", "team_name": "预备队", "duration": "120", "person_num": 17, "type": "控球训练",
+      "id": "3176", "total_distance": "6.5", "single": "51%", "high_percentage": "3.7", "position": "上海市东方绿舟体育训练基地",
+      "temperature": "11℃", "wind_power": "1级", "humidity": "40%", "haiba": "50"
+    },
+    {
+      "id": "3176", "year": 2016, "date": "12-22", "team_name": "U18", "duration": "120", "person_num": 13, "type": "技战术训练",
+      "total_distance": "5.7", "single": "56%", "high_percentage": "5.1", "position": "上海市东方绿舟体育训练基地",
+      "temperature": "13℃", "wind_power": "2级", "humidity": "40%", "haiba": "50"
+    },
+    {
+      "id": "3176", "year": 2016, "date": "12-21", "team_name": "一线队", "duration": "110", "person_num": 22, "type": "热身训练",
+      "total_distance": "6.1", "single": "63%", "high_percentage": "6.4", "position": "上海市东方绿舟体育训练基地",
+      "temperature": "13℃", "wind_power": "3级", "humidity": "70%", "haiba": "50"
+    }
+  ]
+}

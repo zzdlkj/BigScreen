@@ -1,0 +1,20 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "id": "1941", "year": 2016, "date": "12-23", "name": "一线队", "duration": "73", "type": "生理测试",
+      "position": "上海市东方绿舟体育训练基地", "color": "rgb(101,147,183)", "person_num": 28,
+      "temperature": "11℃", "wind_power": "1级", "humidity": "40%", "haiba": "50m", "has": false
+    },
+    {
+      "id": "1941", "year": 2016, "date": "12-23", "name": "一线队", "duration": "73", "type": "专项测试",
+      "position": "上海市东方绿舟体育训练基地", "color": "rgb(147,185,99)", "person_num": 20,
+      "temperature": "11℃", "wind_power": "1级", "humidity": "40%", "haiba": "50m", "has": false
+    },
+    {
+      "id": "1941", "year": 2016, "date": "12-23", "name": "一线队", "duration": "73", "type": "生化测试",
+      "position": "上海市东方绿舟体育训练基地", "color": "rgb(206,103,99)","person_num": 18,
+      "temperature": "11℃", "wind_power": "1级", "humidity": "40%", "haiba": "50m", "has": false
+    }
+  ]
+}

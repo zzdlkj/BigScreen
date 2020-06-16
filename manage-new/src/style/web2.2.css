@@ -1,0 +1,96 @@
+.dropdown-title {
+  line-height: 34px;
+}
+.person-file {
+   position: relative;
+}
+.person-file .animated.page-router {
+  width: 100%;
+  position: absolute;
+}
+.person-file .right-aside .animated.page-router {
+  width: 940px;
+}
+
+@media only screen and (min-width: 1200px){
+  .person-file{  width:1200px;  margin:30px auto;  }
+  .person-file .right-aside{width: 940px;}
+  .person-file .right-aside .animated.page-router{width: 940px;}
+}
+@media only screen and (max-width: 1199px) {
+  .person-file{  width:1024px;  margin:50px auto;  }
+  .person-file .right-aside{width: 800px;}
+  .person-file .right-aside .animated.page-router{width: 800px;}
+}
+.person-file .leftfile{  float: left;  }
+.date-search{margin-left: 40px; width: 65px; height: 34px; border-radius: 40px; outline: none; border:none; background: url('/static/images/person/per_info.png') no-repeat 22px -60px; background-color: #009cdf; }
+.rank-avatar .avatar-span{  margin-right: 6px;  font-size: 14px;  }
+.search-btn{
+  margin-left: 40px; 
+  width: 80px; height: 34px; 
+  border-radius: 20px; 
+  outline: none; 
+  border:none; 
+  // background-color: #009cdf;
+  background-color: #444;
+}
+
+.dart-table {  background-color: #3f4555;  }
+
+.arror{ float: right; width: 25px; height: 25px; background: url('/static/images/person/per_info.png') no-repeat 0px -573px; cursor: pointer;}
+.arror.panel-arror{ margin-top: 4px;}
+
+[disabled] {
+  /*pointer-events: none;*/
+  cursor: not-allowed
+}
+
+.per_center .avatar-span {
+  font-size: 12px;
+}
+
+.compare-datas.chart-data-from {
+  margin-top: 0!important;
+  padding-top: 10px;
+}
+.add-indic .modal-dialog {
+  width: 200px;
+}
+.add-indice-foot .mt-btn {
+  width: 80px;
+}
+  /*
+  白色的滚动条
+  */
+  .scroll-white::-webkit-scrollbar {
+   width: 8px;
+  }
+   .scroll-white::-webkit-scrollbar-track {
+   background-color:transparent;
+   -webkit-border-radius: 2em;
+   -moz-border-radius: 2em;
+   border-radius:2em;
+   border: none;
+  }
+   .scroll-white::-webkit-scrollbar-thumb {
+   background-color: #fff;
+   -webkit-border-radius: 2em;
+   -moz-border-radius: 2em;
+   border-radius:2em;
+  }
+  .table-box .yellow {
+    color: #F9C20D
+  }
+  .table-box .red {
+    color: #F45365
+  }
+  .rank-loading {
+    position: relative;
+    margin-top: 150px;
+  }
+.hottop .red {
+  color: #ec6a86
+}
+.hottop .blue {
+  color: #6aa9e8
+  }

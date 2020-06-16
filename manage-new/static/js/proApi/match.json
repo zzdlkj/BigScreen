@@ -1,0 +1,20 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "id": "8752", "year": 2016, "date": "12-27", "red_team_name": "德比郡", "blue_team_name": "国青u17", "duration": "90", "formation_cnt": 11, "type": "热身赛",
+      "red_total_distance": "99.8", "blue_total_distance": "99.2", "position": "昆明海埂训练基地", "red_score": "4", "blue_score" : "1",
+      "temperature": "22℃", "wind_power": "3级", "humidity": "35%", "haiba": "1980m", "has": true, "src": "http://api.sportsdatas.cn/Upload/files/ability/video/pro_video_test.mp4"
+    },
+    {
+      "id": "8752", "year": 2016, "date": "12-17", "red_team_name": "预备队", "blue_team_name": "河南建业U18", "duration": "90", "formation_cnt": 7, "type": "热身赛",
+      "red_total_distance": "80.2", "blue_total_distance": "80.6", "position": "昆明海埂训练基地", "red_score": "4", "blue_score" : "3",
+      "temperature": "21℃", "wind_power": "2级", "humidity": "40%", "haiba": "1980m", "has": false, "src": "https://cdn.selz.com/plyr/1.5/View_From_A_Blue_Moon_Trailer-HD.mp4"
+    },
+    {
+      "id": "8752", "year": 2016, "date": "12-16", "red_team_name": "U18", "blue_team_name": "上海师范大学附中", "duration": "90", "formation_cnt": 11, "type": "热身赛",
+      "red_total_distance": "72", "blue_total_distance": "71", "position": "昆明海埂训练基地", "red_score": "1", "blue_score" : "1",
+      "temperature": "13℃", "wind_power": "3级", "humidity": "70%", "haiba": "1980m", "has": false
+    }
+  ]
+}

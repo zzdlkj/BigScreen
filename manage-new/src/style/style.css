@@ -1,0 +1,278 @@
+.cursor, .cursor * {
+  cursor: pointer;
+}
+
+.red-team.checkbox label::before{ border-color: #d9534f}
+.blue-team.checkbox label::before{ border-color: #337ab7}
+
+.btn-box{ margin: 20px;}
+input[type = checkbox]:focus {
+  outline: none;
+}
+.hidden-screen {
+    position: fixed;
+    top: -9999px;
+}
+.cle_both{clear: both}
+.Ball_rate_left{background:url('/static/images/qiuchang1.png') no-repeat 45% 60%/90%}
+.Ball_rate_right{background:url('/static/images/qiuchang2.png') no-repeat 45% 60%/90%}
+.match-map{position:relative}
+.dep-person-info{float:left;width:100px;height:auto;position:absolute;top:50%;margin-top:-25px;}
+.dep-person-info span{float:left;width:20px;height:20px;border-radius:50%;margin:0 4px;font-size:12px;color:#fff;line-height:20px;text-align:center;}
+.dep-person-info .red {background:#ce6763;}
+.dep-person-info .green {background:#93b963;}
+.dep-person-info .blue {background:#6593b7;}
+.dep-person-name{float:left;width:calc(100% - 30px);}
+.dep-person-name h1{width:100%;line-height:20px;font-size:14px;font-weight:normal;text-align: center;overflow:hidden;white-space: nowrap;text-overflow: ellipsis}
+.dep-person-name p{width:40px;height:20px;margin:5px auto;border:1px solid #ccc;border-radius:3px;font-size:14px;font-weight: normal;text-align:center}
+.dep-person-map{float:right;width:calc(100% - 100px)}
+
+.test-report .tables th{ background: #93b963; line-height:30px;}
+.test-report .tables tr:nth-child(2) td {background: #ce6763!important; color: #fff}
+.test-report .tables tr td:first-child{ border-right:1px solid #ddd; background: #e5e7ef;}
+.test-report .tables tr:last-child td{ border-bottom: none;}
+/*.panel{ margin-bottom: 0px;}*/
+.seach-team .btn-group{
+  vertical-align: top
+}
+.glyphicon-remove-sign {
+  cursor: pointer;
+}
+@media (min-width: 768px) {
+  .container {
+    /*width: 100% !important;*/
+    max-width: 1200px;
+  }
+}
+
+/*
+* 添加人员
+ */
+
+ .container.form-box .panel-body .form-group.form-inline .btn:hover{ background: #fff; color: #333;}
+ .container.form-box .panel-body .form-group.form-inline .btn:focus{ background: #fff; color: #333;}
+ .form-group{ position: relative}
+ .tag{ margin-top: 5px; color: #ce6763; font-size: 20px; display: inline-block;}
+ .tag-sex{ position: absolute; left: 315px;}
+ .date-tag{ position: absolute; left: 445px; top: -3px;}
+ .tag-org{ position: absolute; left: 865px; top: -3px;}
+ .tag-grade{ position: relative; margin-top: 0px; top: 5px; left: 10px;}
+
+ /**
+  * 个人成长记录
+  */
+
+  .cle-both{clear: both}
+  .grow-basic{ overflow:hidden;}
+  .health-basic{float:left;width:100%}
+  .grow-basic h3{ line-height:30px;}
+  .grow-basic .btnn{ background: #96ce57; padding:3px 10px; margin:0 5px; color:#fff; border-radius:5px; margin-top:4px;}
+  .grow-basic .basic-title .right{font-size: 24px; }
+  .grow-basic .tables{ margin-top:20px; font-size: 14px; line-height: 20px; width:100%;}
+  .grow-basic .tables th,.grow-basic .tables td{padding:5px;}
+  .grow-basic .tables th{ background: #eee;}
+  .btnn2{ background: #96ce57; color:#fff; padding:10px; border-radius: 5px;}
+  .border{ width:85%; margin: 15px; border: 1px solid #ddd;}
+  .btn-down{ margin-top:5px; font-size: 16px}
+  .panel-search{ width:20%;}
+  .match-item{ overflow: hidden;float: left;height:30px;margin:10px 15px;}
+  .match-item li{ float: left; margin-right: 20px;line-height:30px;}
+  .match-item li span{float:left;width: 30px;height:20px;border-radius: 3px;line-height: 20px;text-align: center;color:#fff;font-size:12px; background:#96ce57;margin:5px 0;}
+  .match-item li.icon-time{background:url("/static/images/info.png") 0 -1098px no-repeat;padding-left:27px;margin:4px 10px;line-height:26px;color:#000;}
+  .match-item li.icon-football{background:url("/static/images/info.png") 0 -1127px no-repeat;padding-left:27px;margin:4px 10px;line-height:26px;color:#000;}
+  .pie-title{ margin:15px 0; border-left:4px solid #96ce57;padding:5px 10px}
+  /*日期选择样式*/
+  .date-select{ margin:10px 0px;}
+  .date-select p{ margin-top:6px; color:#333;}
+  .person-base-title{float:left;width:100%;height:30px;background:#eee;}
+  .person-base-title ul li{float:left;width:33.333333%;font-size:14px;font-weight:bold;text-align:center;line-height:30px;}
+  .dep-match-index{float:left;width:400px;margin:10px 5px;}
+  .red-match-data,.blue-match-data{float:left;width:180px;height:auto;}
+  .red-match-data span.team,.blue-match-data span.team{float:left;width:145px;height:30px;background:#ce6763;border-radius:3px 0px 0px 3px;text-align: center;line-height:30px;color:#fff;}
+  .red-match-data span.score,.blue-match-data span.score{float:left;width:35px;height:30px;background:#151515;line-height:30px;text-align:center;color:#fff;}
+  .blue-match-data span.team{border-radius:0 3px 3px 0;background:#6494b7}
+  .match-time{float:left;width:40px;height:40px;background:#3f4658;margin-top:-5px;line-height:40px;text-align:center;color:#fff;border-radius:3px;}
+
+  .health-basic .tables{margin-top:10px}
+  .health-basic .tables th {  min-width: 60px;  max-width: 85px;line-height: 30px;  vertical-align: top;position: relative; text-align: center;  }
+  .health-basic .tables td{line-height: 25px; text-align: center;}
+  .health-basic .tables th span{ font-size: 16px; color:#d48265;}
+  /*暂无数据先注释*/
+  .health-basic .tables th {
+    cursor: pointer;
+  }
+  .health-basic .tables tr th:nth-child(6),.health-basic .tables tr th:nth-child(7),.health-basic .tables tr th:nth-child(8) {
+    cursor: auto;
+  }
+  .health-basic .tables tr th:first-child:hover .chart{display: block}
+  .health-basic .tables tr th:nth-child(2):hover .chart{display: block}
+  .health-basic .chart{display:none;position:relative;width:200px;height:150px;position:absolute;bottom:40px;background:#fff;border:1px solid #ccc; z-index: 50; line-height: 150px;}
+  .health-basic .chart span{background:url("/static/images/info.png") 0 -1175px no-repeat;width:20px;height:11px;float:left;display: block;margin:-11px 5px;position:absolute;left:5px;bottom:0}
+
+  .match-map .col-xs-3 h1{text-align: center;line-height:30px;font-size: 14px; font-weight: bold;}
+
+
+  /*提示信息*/
+  .right-Prompt{float:right;width:200px;height:auto;background:#fff;border:1px solid #ccc;right:0;top:45px;z-index: 10}
+  .right-Prompt span{background:url("/static/images/info.png") 0 -1156px no-repeat;width:20px;height:11px;float:right;display: block;margin:-11px 5px;}
+  .right-Prompt ul li{float:left;width:100%;padding:0 5px;margin:5px 0;font-size:14px;}
+  .right-Prompt ul li p{float:left;font-weight:bold}
+
+  /*个人基本信息占比*/
+  .high_distance{font-size:14px;text-align: center;line-height:20px;margin:5px 0}
+  .high_distance i{font-style: normal;color:#cf332f;}
+  .three-img{width: 80px;height:auto;margin:5px auto}
+  .three-img img{width: 100%;height:auto}
+  .run-distance{float:left;margin:2px;}
+  .run-distance i{font-style: normal;color:#cf332f}
+  .mean-heart{float:right;margin:2px;}
+  .mean-heart i{font-style: normal;color:#cf332f}
+  .glyphicon-search.glyphicon-search {
+    cursor: pointer;
+    pointer-events:auto;
+  }
+
+  /* 档案下拉*/
+  .panel-heading .down {
+      padding: 0 10px 0 25px;
+  }
+
+  /*个人档案*/
+
+
+.right-Prompt ul li p{float:left;font-weight:bold}
+
+/*个人基本信息占比*/
+.high_distance{font-size:14px;text-align: center;line-height:20px;margin:5px 0}
+.high_distance i{font-style: normal;color:#cf332f;}
+.three-img{width: 80px;height:auto;margin:5px auto}
+.three-img img{width: 100%;height:auto}
+.run-distance{float:left;margin:2px;}
+.run-distance i{font-style: normal;color:#cf332f}
+.mean-heart{float:right;margin:2px;}
+.mean-heart i{font-style: normal;color:#cf332f}
+/*收缩*/
+.healthInfo {position:relative; height:35px; margin-bottom: 20px; width:100%;}
+.healthInfo .btnn2{ position: absolute; z-index: 20;}
+.healthInfo .border{ position: absolute; width: 100%; border: 1px solid #ddd; z-index: 10; margin: 15px 0px;}
+.healthInfo .btn-down{ margin-top:2px; font-size: 16px; position: absolute; right:0px;  top: 4px;  z-index: 20;  background: #fff;  padding-left: 5px;}
+
+/*详情按钮*/
+.detailInfo{ background: #fff;padding: 0px 10px;border-radius: 5px;color: #333;}
+.panel-heading{border-bottom: none;}
+
+/*学校测试报告*/
+.school .report-head {height: auto;text-align: center;}
+.school .report-head .team-info li{color:#fff;}
+.school .report-head .inf2{ padding:0 35px; background-image: url('/static/images/info.png'); background-repeat: no-repeat;background-position:0 -854px; }
+.school .report-head .team-info .inf1{ padding: 0;line-height: 23px;}
+.school .report-head span {
+  font-size: 20px;
+  float: left;
+  margin-right: 15px;
+}
+.school .report-head .team-name {
+  max-width: 500px;
+  width: auto;
+  display: inline-block;
+}
+/**/
+.pro-btn-box {margin: 20px auto 10px}
+
+.btn-green {
+  background: #9fd367;color:#fff;
+}
+.btn-green:hover {
+  color: #fff;
+}
+.btn-white {
+  background: #fff;
+  color: #9fd367;
+  border: 1px solid #9fd367;
+}
+.btn-white:hover {
+  color: #9fd367;
+}
+
+/*队伍比赛报告*/
+.match-bar-title{ overflow: hidden;}
+.match-bar-title li{ float: left; line-height:33px; color:#fff; text-align: center; font-size: 16px;}
+.match-bar-title .red{ background-color: #d9534f;}
+.match-bar-title .teams{ width: 45%; }
+.match-bar-title .pro{width: 10%; background-color: #000;}
+.match-bar-title .blue{ background-color: #6593b7;}
+.match-bar-title .first-team{  width:35%; }
+.match-bar-title .second-team{  width:35%;}
+.single-highest p{ width:10%; line-height:33px;text-align:center; }
+.single-highest span{width:10%;height:35px;background:#f1f1f1;margin:0 35%}
+.teams-deep{ padding-left:10%; padding-top:20px;}
+.teams-deep .match-bar-title li{ color:#000; line-height: 40px;}
+.teams-deep .match-bar-title .pro{ background: #fff; width:15%;}
+.teams-deep .MatchName{width:15%}
+.select-team{ border: 1px solid #ddd; border-radius: 5px; padding:6px 10px; margin-top:10px; width:200px;}
+.select-team p{ border-left: 4px solid #96ce57; padding-left: 10px;}
+.glyphicon.glyphicon-remove-sign.right{ font-size: 16px;  margin-top: 3px;  color: #d9534f;}
+
+/*table*/
+.table-box, .load-box {
+  position: relative;
+}
+.table-bg {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(255, 255, 255, 0.4);
+}
+.table-box .sk-fading-circle, .load-box .sk-fading-circle{
+  margin: 0 auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%);
+}
+.test-echarts {
+  height: 800px;
+}
+.left-test ul li{float:left;width:100%;margin-top:10px;}
+.left-test .bar{ width: 100%; height: 33px; border-radius: 5px; background: #f1f1f1;}
+.sign{float: left; width: 24px; height: 15px;border-radius: 3px; margin-top: 2px; margin-right: 5px;}
+.sex-num .bar .man-bar{float: left;height: 33px; background: #6593b7; border-radius: 5px 0px 0px 5px;}
+.sex-num .bar .woman-bar {float: left;height: 33px; background: #f9c20d; border-radius: 0px 5px 5px 0px;}
+.test-style .bar .base-bar{float: left;height: 33px; background: #2d3446; border-radius: 5px 0px 0px 5px;}
+.test-style .bar .advanced-bar {float: left;height: 33px; background: #61a0a8;}
+.test-style .bar .special-bar {float: left;height: 33px; background: #ce6763; border-radius: 0px 5px 5px 0px;}
+.left-test .test-style ul.test-sign {overflow: hidden;}
+.left-test .test-style ul.test-sign li { margin: 5px 0px;}
+ul.sex-sign li span,.test-style ul.test-sign li span{ font-weight: bold;}
+.test-style .bar{ margin-bottom: 5px;}
+
+/*
+  学校测试报告
+ */
+.test-tab {
+  margin-top: 10px;
+}
+.print-page-break {
+  page-break-after:always;
+}
+body {
+  padding-bottom: 0;
+}
+@media print {
+  .navbar-nav {
+    float: left;
+    margin: 0;
+  }
+  .textarea {
+    box-shadow: none;
+  }
+  .disscuss .btn {
+    display: none;
+  }
+  * {
+    /*解决打印的时候背景图像不显示*/
+    -webkit-print-color-adjust: exact;
+  }
+}

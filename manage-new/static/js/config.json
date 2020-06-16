@@ -1,0 +1,14 @@
+{
+  "org": {
+    "type": "organization"
+  },
+  "other": {
+    "type": "other"
+  },
+  "mobile": {
+    "type": "mobile"
+  },
+  "admin": {
+    "type": "admin"
+  }
+}
